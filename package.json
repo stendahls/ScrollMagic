@@ -60,8 +60,8 @@
     "example": "./examples"
   },
   "scripts": {
-    "start": "node ./node_modules/gulp/bin/gulp open-demo"
     "test": "karma start ./dev/tests/karma.conf.js",
+    "start": "gulp open-demo"
   },
   "homepage": "http://ScrollMagic.io",
   "keywords": [
