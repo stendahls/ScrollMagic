@@ -4,6 +4,12 @@ module.exports = function(config) {
     basePath: '../../',
     frameworks: ['jasmine', 'requirejs'],
 
+    plugins: [
+      "karma-chrome-launcher",
+      "karma-jasmine",
+      "karma-requirejs",
+    ],
+
     // needed files
     files: [
       // libs
