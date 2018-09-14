@@ -63,10 +63,10 @@ Some problems are caused by other elements, scripts or overlapping scenes on the
 
 ### 4. Search for similar problems
 Chances are someone already ran across something similar to what you're experiencing.  
-Check [stackoverflow](http://stackoverflow.com/questions/tagged/scrollmagic) or use the [GitHub search](https://github.com/janpaepke/ScrollMagic/search) at the top of the page to see if there's already a solution waiting for you.
+Check [stackoverflow](http://stackoverflow.com/questions/tagged/scrollmagic) or use the [GitHub search](https://github.com/stendahls/ScrollMagic/search) at the top of the page to see if there's already a solution waiting for you.
 
 ### 5. Post your question in the issues section
-Once you've completed steps 1 - 4 and still have no resolution, you're welcome to post your question in the projects [issues section](https://github.com/janpaepke/ScrollMagic/issues). We'll be happy to help you with your problem.  
+Once you've completed steps 1 - 4 and still have no resolution, you're welcome to post your question in the projects [issues section](https://github.com/stendahls/ScrollMagic/issues). We'll be happy to help you with your problem.  
 In order for us to be able to do that efficiently, and also for future users to benefit from the solution, we ask you to abide by the guidelines below.
 
 ---

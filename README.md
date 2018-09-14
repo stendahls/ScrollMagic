@@ -1,4 +1,4 @@
-# ScrollMagic <a href='https://github.com/janpaepke/ScrollMagic/blob/master/CHANGELOG.md' class='version' title='Whats New?'>v2.0.5</a> [![Build Status](https://api.travis-ci.org/janpaepke/ScrollMagic.svg?branch=master)](https://travis-ci.org/janpaepke/ScrollMagic) 
+# ScrollMagic <a href='https://github.com/stendahls/ScrollMagic/blob/master/CHANGELOG.md' class='version' title='Whats New?'>v2.0.5</a> [![Build Status](https://api.travis-ci.org/stendahls/ScrollMagic.svg?branch=master)](https://travis-ci.org/stendahls/ScrollMagic)
 
 ### The javascript library for magical scroll interactions. [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif "Shut up and take my money!")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8BJC8B58XHKLL "Shut up and take my money!")
 
@@ -47,12 +47,12 @@ If the above points are not crucial for you and you are just looking for a simpl
 ## Availability
 
 To get your copy of ScrollMagic you have the choice between four options:
-  
+
 __Option 1: GitHub__  
-Download a zip file containing the source code, demo page, all examples and documentation from the [GitHub releases page](https://github.com/janpaepke/ScrollMagic/releases) or clone the package to your machine using the git command line interface:
+Download a zip file containing the source code, demo page, all examples and documentation from the [GitHub releases page](https://github.com/stendahls/ScrollMagic/releases) or clone the package to your machine using the git command line interface:
 
 ```bash
-git clone git://github.com/janpaepke/ScrollMagic.git
+git clone git://github.com/stendahls/ScrollMagic.git
 ```
 
 __Option 2: Bower__  
@@ -135,8 +135,8 @@ To learn more about the ScrollMagic code structure, please [read here](https://g
 To get started, check out the available learning resources [in the wiki section](https://github.com/janpaepke/ScrollMagic/wiki).  
 Be sure to have a look at the [examples](http://janpaepke.github.com/ScrollMagic/examples/index.html) to get source code pointers and make use of the [documentation](http://janpaepke.github.com/ScrollMagic/docs/index.html) for a complete reference.
 
-If you run into trouble using ScrollMagic please follow the [Troubleshooting guide](https://github.com/janpaepke/ScrollMagic/blob/master/CONTRIBUTING.md).  
-Should you still be unable to figure it out, feel free to post your questions in the [project's issues section](https://github.com/janpaepke/ScrollMagic/issues).
+If you run into trouble using ScrollMagic please follow the [Troubleshooting guide](https://github.com/stendahls/ScrollMagic/blob/master/CONTRIBUTING.md).  
+Should you still be unable to figure it out, feel free to post your questions in the [project's issues section](https://github.com/stendahls/ScrollMagic/issues).
 
 ## Browser Support
 
@@ -153,7 +153,7 @@ I started this project to extend my understanding of javascript (which it has).
 ## License
 
 ScrollMagic is dual licensed under the MIT license and GPL.  
-For more information click [here](https://github.com/janpaepke/ScrollMagic/blob/master/LICENSE.md).
+For more information click [here](https://github.com/stendahls/ScrollMagic/blob/master/LICENSE.md).
 
 ## Thanks
 

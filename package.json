@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/janpaepke/ScrollMagic.git"
+    "url": "git://github.com/stendahls/ScrollMagic.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/janpaepke/ScrollMagic/blob/master/LICENSE.md"
+      "url": "https://github.com/stendahls/ScrollMagic/blob/master/LICENSE.md"
     },
     {
       "type": "GPL-3.0+",
@@ -82,7 +82,7 @@
     "jquery-plugin",
     "ecosystem:jquery"
   ],
-  "bugs": "https://github.com/janpaepke/ScrollMagic/issues",
+  "bugs": "https://github.com/stendahls/ScrollMagic/issues",
   "files": [
     "scrollmagic",
     "LICENSE.md",

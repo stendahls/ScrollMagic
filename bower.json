@@ -5,7 +5,7 @@
 	"homepage": "http://ScrollMagic.io",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/janpaepke/ScrollMagic.git"
+		"url": "https://github.com/stendahls/ScrollMagic.git"
 	},
 	"authors": [
 		{
