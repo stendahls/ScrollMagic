@@ -1,6 +1,6 @@
 # ScrollMagic <a href='https://github.com/stendahls/ScrollMagic/blob/master/CHANGELOG.md' class='version' title='Whats New?'>v2.0.5</a> [![Build Status](https://api.travis-ci.org/stendahls/ScrollMagic.svg?branch=master)](https://travis-ci.org/stendahls/ScrollMagic)
 
-### The javascript library for magical scroll interactions. [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif "Shut up and take my money!")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8BJC8B58XHKLL "Shut up and take my money!")
+### The javascript library for magical scroll interactions. 
 
 ScrollMagic helps you to easily react to the user's current scroll position.  
 It's the perfect library for you, if you want to ...
